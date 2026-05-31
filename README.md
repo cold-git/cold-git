@@ -16,7 +16,7 @@ Basically, I work on whatever dataset I lay my hands on. If I get a dataset, cha
 
  **Tools used**: MySQL, PowerBI, Ms Excel, VS Code
 - **Language**:   Python
-- **Libraries**:  Pandas, Scikit-learn, Matplotlib.
+- **Libraries**:  NumPy, Pandas, Scikit-learn, Matplotlib.
 
 
 <!--s
