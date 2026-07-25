@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I am Abdulsamad, a Data Analyst interested in facilitating data cleaning and exploration with machine learning algorithms.
+I am Abdulsamad, a Data Analyst interested in facilitating data cleaning and exploration with Pandas and DAX queries.
 
 I mostly work on SQL queries and visualizing them in making business decisions. 
 
@@ -14,8 +14,8 @@ Basically, I work on whatever dataset I lay my hands on. If I get a dataset, cha
   -   **Hobbies:** Querying, Coding, Gym.   
 
 
- **Tools used**: MySQL, PowerBI, Ms Excel, VS Code
-- **Language**:   Python
+ **Tools used**: MySQL, PowerBI, VS Code, Ms Excel
+- **Language**:   Python, SQL
 - **Libraries**:  NumPy, Pandas, Scikit-learn, Matplotlib.
 
 
