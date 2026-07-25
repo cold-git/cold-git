@@ -11,7 +11,7 @@ Basically, I work on whatever dataset I lay my hands on. If I get a dataset, cha
 **Fun Facts:**  
   -  I think en passant should never be removed from chess.
   -  I play tennis for fun.
-  -   **Hobbies:** Querying, Coding, Gym.   
+  -   **Hobbies:** Coding, Reading, Travelling.   
 
 
  **Tools used**: MySQL, PowerBI, VS Code, Ms Excel
